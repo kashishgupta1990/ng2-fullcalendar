@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "homepage": "https://github.com/kashishgupta1990/ng2-fullcalendar",
+  "authors": [
+    "Kashish Gupta <kashishgupta1990@yahoo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fullcalendar": "^3.1.0",
+    "jquery-ui": "^1.12.1"
+  }
+}

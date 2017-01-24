@@ -8,3 +8,4 @@ node_nodules/
 src/*/*.map
 src/*/*.js
 src/*/*.d.ts
+.idea
